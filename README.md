@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dektop Developer<br>🔭 I’m currently working on Digital Vault<br>🌱 I’m currently learning advanced c# and xamarin form<br>💬 Ask me about arduino, c#, java, python and unity<br>
+¡Hola! Soy Elián, un estudiante apasionado y programador listo para desafiar los límites de la tecnología. Mi viaje en el mundo del desarrollo no solo es una carrera, sino una aventura emocionante para crear soluciones innovadoras.
 
 
 ## 🌐 Socials:
