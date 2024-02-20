@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@develop2204) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/c/@develop2204](https://www.youtube.com/channel/ucocqryy2gzb6hldtjp68vyw)) 
 https://play.google.com/store/apps/dev?id=8829092285700106470
 
 # 💻 Tech Stack:
