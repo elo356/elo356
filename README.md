@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-### https://www.youtube.com/channel/ucocqryy2gzb6hldtjp68vyw
+### [https://www.youtube.com/channel/ucocqryy2gzb6hldtjp68vyw](https://www.youtube.com/channel/UCoCQrYY2GZb6HlDtjP68vYw)
 ### https://play.google.com/store/apps/dev?id=8829092285700106470
 
 # 💻 Tech Stack:
