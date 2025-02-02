@@ -1,5 +1,4 @@
 # 💫 About Me:
-¡Hola! Soy Elián, un estudiante apasionado y programador listo para desafiar los límites de la tecnología. Mi viaje en el mundo del desarrollo no solo es una carrera, sino una aventura emocionante para crear soluciones innovadoras.
 
 
 ## 🌐 Socials:
